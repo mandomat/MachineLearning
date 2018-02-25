@@ -1,2 +1,2 @@
 # MachineLearning
-Machine Learning tests 
+Machine Learning tests in python
